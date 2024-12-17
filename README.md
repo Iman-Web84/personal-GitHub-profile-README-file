@@ -1,4 +1,4 @@
-# personal-GitHub-profile-README-file
+# Personal-GitHub-Profile-README-file
 👋 Hello! I'm Iman
 💻 Web Developer and Programmer
 
