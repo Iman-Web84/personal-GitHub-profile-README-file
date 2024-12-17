@@ -10,12 +10,12 @@ I'm a passionate web developer with experience in front-end, back-end, and datab
 Front-end: HTML, CSS, JavaScript, Blazor
 Back-end: C#, ASP.NET
 Database: SQL Server, MySQL
-🚀 My Projects
 
+🚀 My Projects
 Online Store Project - A fully functional e-commerce platform.
 User Management System - A system for managing user accounts and access levels.
-📫 Contact Me
 
+📫 Contact Me
 LinkedIn
 Email
 Thank you for visiting my profile! 😊
